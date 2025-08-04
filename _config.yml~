@@ -4,8 +4,8 @@
 
 # Site
 title: Stationary Action
-subtitle: ''
-description: ''
+subtitle: 'subtitle'
+description: 'description'
 keywords:
 author: Ogul Oncel
 language: en
