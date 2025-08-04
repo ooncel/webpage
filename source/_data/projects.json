@@ -1,12 +1,17 @@
 [
     {
-       "name":"Hexo",
-       "url":"https://hexo.io/",
-       "desc":"A fast, simple & powerful blog framework"
+       "name":"Cassini CDA",
+       "url":"https://github.com/ooncel",
+       "desc":"Learning how to study and analyze the Cosmic Dust Analyzer (CDA) data of the Cassini space probe."
     },
     {
-       "name":"Font Awesome",
-       "url":"http://fontawesome.io/",
-       "desc":"The iconic font and CSS toolkit"
+       "name":"C1 Level German",
+       "url":"https://github.com/ooncel",
+       "desc":"Collection of summaries I made while learning German for C1 level exam."
+    },
+    {
+       "name":"Cologne Pegel",
+       "url":"https://github.com/ooncel",
+       "desc":"Real-time display of Rhein water level according to Kölner Pegel."
     }
 ]
